@@ -29,11 +29,11 @@ $ ruby run.rb https://www.petsonic.com/galletas-para-perro/ galetas
 или
 
 ```
-ruby run.rb https://www.petsonic.com/galletas-para-perro/ galetas.csv
+$ ruby run.rb https://www.petsonic.com/galletas-para-perro/ galetas.csv
 
 ```
 
-###Вывод в терминале
+### Вывод в терминале
 После запуска скрипта появится:
 
 I found 32 products
