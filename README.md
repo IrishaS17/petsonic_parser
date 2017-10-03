@@ -18,26 +18,24 @@ https://www.petsonic.com/galletas-para-perro/
 
 ```
 $ ruby run.rb url file_name
-
 ```
 
 Пример:
 
 ```
 $ ruby run.rb https://www.petsonic.com/galletas-para-perro/ galetas
-
 ``` 
 или
 
 ```
 $ ruby run.rb https://www.petsonic.com/galletas-para-perro/ galetas.csv
-
 ```
 
 ### Вывод в терминале
 После запуска скрипта появится:
 
 I found 32 products
+
 The data was writed into ../data/galetas.csv
 
 
